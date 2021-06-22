@@ -1,0 +1,9 @@
+﻿  module.cpp
+C:\Users\domin\anaconda3\envs\pytorch\Lib\site-packages\numpy\core\include\numpy\npy_1_7_deprecated_api.h(14): warning Msg: Using deprecated NumPy API, disable it with #define NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION
+C:\Users\domin\source\repos\autono_drone\CompEye\module.cpp(16,15): warning C4101: 'preSum': unreferenced local variable
+     Creating library C:\Users\domin\source\repos\autono_drone\x64\Release\BeeLib.lib and object C:\Users\domin\source\repos\autono_drone\x64\Release\BeeLib.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CompEye.vcxproj -> C:\Users\domin\source\repos\autono_drone\x64\Release\BeeLib.pyd
